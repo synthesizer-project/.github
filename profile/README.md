@@ -1,8 +1,12 @@
 # Synthesizer
 
+Welcome to the [Synthesizer](https://synthesizer-project.github.io/) Github project page!
+
+## Synthesizer
+
 Synthesizer is an open-source python package for generating synthetic astrophysical observables. It is modular, flexible, fast and extensible.
 
-Read the documentation [here](https://synthesizer-project.github.io/).
+Read the documentation [here](https://synthesizer-project.github.io/synthesizer).
 
 ## Synference
 

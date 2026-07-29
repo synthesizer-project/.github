@@ -16,4 +16,4 @@ Read the Synference documentation [here](https://synthesizer-project.github.io/s
 
 ## Syncretize
 
-The [grid-generation repo](https://github.com/synthesizer-project/grid-generation) contains scripts for creating stellar population synthesis (SPS) and photoionisation post-processed grids of emission, for use within Synthesizer.
+The [syncretize repo](https://github.com/synthesizer-project/syncretize) contains scripts for creating stellar population synthesis (SPS) and photoionisation post-processed grids of emission, for use within Synthesizer.

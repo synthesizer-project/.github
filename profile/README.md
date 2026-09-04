@@ -22,6 +22,6 @@ Read the Synference documentation [here](https://synthesizer-project.github.io/s
 
 [Synthia](https://github.com/synthesizer-project/synthia) is an agent skill and MCP server that can answer Synthesizer questions from your local installation.
 
-# Syntillate
+## Syntillate
 
 [Syntillate](https://github.com/synthesizer-project/syntillate) is a score-based diffusion noise model for creating realistic photometric mock catalogues.
